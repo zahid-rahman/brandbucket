@@ -6,6 +6,7 @@ In this project, we proposed an E-commerce site. An e-vendor shop to be exact.Pe
 Member :
 
 1.Rahman Md.Zahid
+
 2.Bhattarjacrjee Susmoy
 
 
